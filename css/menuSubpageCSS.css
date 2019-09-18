@@ -1,0 +1,118 @@
+            #wrap{
+                display:block;
+                width: 1080px;    
+                margin: auto;
+                box-sizing:border-box;
+            }
+                    
+            .hide {
+                position: absolute;
+                left: -9999px; 
+            }
+                        
+            #innerHeader{
+                box-sizing: border-box;
+                background-color: white;
+                height: 80px;
+                width:1080px;
+                 
+            }
+        
+            #logo{
+                box-sizing: border-box;
+                float: left;
+                margin:25px;
+                height:45px;
+                width:225px;
+                background:url(../images/토스트로고.png) no-repeat ;
+                text-Indent:-999px;
+            }    
+            
+            #gnb{
+                font-size:20px;
+                float: left;
+                width:580px;
+                height: 100%;
+                color: red;
+                box-sizing: border-box;
+            }
+            
+            #gnb li{
+                display: inline-block;
+                
+                margin: 25px;
+                color:tomato;
+            }
+     
+            #sns{
+                float: left;
+                height: 100%;
+                width: 210px;
+                
+                box-sizing: border-box;
+                
+            }
+             
+            #sns ul{
+                width:200px;
+                margin: 50px 0 -40px;
+            }            
+
+            #sns li{    
+                display: inline-block;
+                
+            }
+
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Blog Pictogram */
+            
+            /*<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Facebook Pictogram */
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Instagram Pictogram */
+            
+                        
+            #borderLine{
+                
+                background-color: red;
+                width:1080px;
+                height:20px;
+            }
+        
+    
+        
+
+            #footerTop{
+                background-color: gray;
+                border: 1px solid transparent;
+                height:50px;
+                margin: 0px 50px;
+                box-sizing: border-box;
+            }
+            
+            #footerBottom{
+                background-color: gray;
+                box-sizing: border-box;
+                width: 1080px;
+                height:100px;
+                display: inline-block;
+            }
+            
+            #footerAddress{
+                box-sizing: border-box;
+                float:left;    
+                width:900px;
+                padding: 0 0 0 20px;
+            }
+            
+            #footerLogo{
+                background: url('../images/이삭로고.png') no-repeat center;
+                box-sizing: border-box;
+                float: left;
+                padding: 80px 0 0 0;
+                width: 170px;
+                height: 100%;
+            }
+            
+        </style>

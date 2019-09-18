@@ -1,0 +1,582 @@
+
+
+
+
+
+            a{
+                text-decoration: none;
+            }
+
+
+
+            #wrap{
+                display:block;
+                width: 1080px;    
+                margin: auto;
+                box-sizing:border-box;
+            }
+                    
+            .hide {
+                position: absolute;
+                left: -9999px; 
+            }
+                        
+            #innerHeader{
+                box-sizing: border-box;
+                background-color: white;
+                height: 80px;
+                width:1080px;
+                 
+            }
+        
+            #logo{
+                box-sizing: border-box;
+                float: left;
+                margin:25px;
+                height:45px;
+                width:225px;
+                background:url(../images/토스트로고.png) no-repeat ;
+                text-Indent:-999px;
+            }    
+            
+            #gnb{
+                float: left;
+                width: 580px;
+                box-sizing: border-box;
+                font-family: 'Karla', sans-serif;
+                font-size: 25px;
+                color: #af2323;
+            }
+            
+            #gnb li{
+                display: inline-block;
+                margin: 20px 8px;
+                color:tomato;
+            }
+     
+            #gnb a{
+                color:#af2323;
+            }
+            
+
+            #sns{
+                float: left;
+                height: 100%;
+                width: 210px;
+                box-sizing: border-box;
+                
+            }
+            
+            #snsBox{
+                border: 2px solid transparent;
+                padding: 12px 0 0 75px;
+            }
+
+            #sns a{
+                padding: 0 2px; 
+                margin: 30px 0 0 0;
+                display: inline-block;
+            }                       
+
+            #blog{
+ 
+                width:35px;
+                height:35px;
+                background: url('../images/upperBlog.png') no-repeat center;
+                text-indent: -9999px;
+            }
+
+             #facebook{
+                width:35px;
+                height:35px;
+                background: url('../images/upperFacebook.png') no-repeat center;
+                text-indent: -9999px;
+            }
+
+
+             #instagram{
+                width:35px;
+                height:35px;
+                background: url('../images/upperInstagram.png') no-repeat center;
+                text-Indent: -9999px;
+            }
+
+
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Blog Pictogram */
+            
+            /*<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Facebook Pictogram */
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Instagram Pictogram */
+            
+                        
+            #borderLine{
+                background-color: #af2323;
+                width:1080px;
+                height:20px;
+            }
+        
+            
+            .section01{
+                border: 1px solid transparent;
+                background: 
+                    url('../images/front.png') no-repeat center top; 
+                box-sizing:border-box;
+                height:590px;
+                border-top: 1px solid #af2323;
+            }
+    
+        
+            #firstBoxText{
+                font-family: 'Karla', sans-serif;
+                margin: 50px 0 0 55px;
+                font-size:50px;
+            }
+
+            
+            #middleText{
+                font-family: 'Gothic A1', sans-serif;     
+                margin: 45px 0px 0px 55px;
+                font-size: 40px;
+            }
+
+            #redText{
+               font-family: 'Gothic A1', sans-serif;     
+                margin: 15px 0px 0px 55px;
+                font-size: 40px;
+                color:#af2323;
+            }
+
+            #longText{
+                font-family: 'Gothic A1', sans-serif;   
+                margin: 15px 0px 0px 55px;
+                font-size: 15px;
+            }
+            
+            .section02 > div{
+                display:inline-block;
+            }            
+            
+            
+            .leftBox{
+                box-sizing: border-box;
+                float:left;                
+                height: 520px; 
+                width:540px;
+                background: url('../images/leftBox.jpg') no-repeat center top;
+            }
+            
+            
+            .rightBox{
+                box-sizing: border-box;
+                height: 520px;
+                width:540px;
+                background: url('../images/rightBox.jpg') no-repeat center top;
+            }
+            
+            .boxSmallTitle{
+                font-family: 'Karla', sans-serif;
+                font-size : 20px;
+                margin: 70px 0 40px 120px; 
+            }
+            
+            /*            <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+           /* Congratulation Pictogram*/
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar">Gregor Cresnar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Restaurant Pictogram */
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Search Pictogram */
+            
+            /*            <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Wave Pictogram */
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/iconnice" title="Iconnice">Iconnice</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Cutlery Pictogram */
+            
+            /*            <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* List Pictogram */
+
+            
+            .leftBox .searchBox{
+                background-color: black;
+            }
+
+            .leftBox a{
+                font-family: 'Gothic A1';
+                color: white;
+            }
+            
+            .leftBox .boxSmallTitle{
+                 font-family: 'Karla', sans-serif;
+                 margin:70px 0 40px 140px; 
+                
+            }
+            .rightBox .searchBox{
+                border:3px solid  #af2323;;
+            }
+
+            .rightBox a{
+                font-family: 'Gothic A1';
+                color: #af2323;
+            }
+    
+            .searchBox{
+                width: 250px;
+                height:35px;  
+                margin:  60px 0 0 55px;
+                padding: 16px 0 0 15px ;
+                
+            }
+            
+            .boxText{
+                font-size:50px;
+                margin: 0 0 30px 55px; 
+            }
+            
+            .section03{
+                border: 1px solid transparent;
+                height:450px;
+                background: url('../images/Menu.jpg') no-repeat center top;
+            }
+                  
+            .section03 .searchBox{
+                background-color:  #af2323;;
+                margin : -30px 0 30px 55px;
+            }
+        
+            .section03 a{
+                    color:white;
+                    font-family: 'Gothic A1';            
+                }
+
+          
+
+            .section04{
+                border: 1px solid tomato;
+                height: 500px;
+            }
+                        
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/creaticca-creative-agency" title="Creaticca Creative Agency">Creaticca Creative Agency</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Toast Pictogram */
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Coffee Pictogram */
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* juice Pictogram */
+            
+            .section04  div{
+                width:200px;
+                margin:  0px  0px  0px 50px;
+            }
+            
+            .section04 a{
+                float:left;
+                width:359px;
+                height:500px;
+                box-sizing: border-box;
+            }
+            
+            #idOne{
+                background: url('../images/toastBox.jpg');
+                background-position: 50% 50%; 
+            }
+            
+            #idTwo{
+                background: url('../images/coffeeBox.jpg');
+                background-position: 50% 50%; 
+            }
+
+            #idThree{
+                background: url('../images/juiceBox.jpg');
+                background-position: 50% 50%; 
+            }
+            
+            .section04 .menuNumber{
+                font-size: 30px;
+                color: black;
+            }
+            
+            .section04 .menuScript{
+                margin: -10px 0 0 0;
+                width:300px;
+                font-family: 'Karla', sans-serif;
+                font-size: 30px;
+                color: white;
+            }
+                    
+            .section05 a{
+                color:#af2323;
+            }
+
+            .section05 a #happyStoryTextBottom {
+                color: black;
+            }
+            
+            /*            <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Smile Pictogram */
+        
+            .boxText{
+                width: 550px;
+                height: 200px;
+            }
+            
+            #innerSection05{
+                border: 2px solid transparent;
+                height:315px;
+                background: url('../images/happyStory.jpg') no-repeat center top;
+            }
+
+            .section05 .boxText{
+                margin: 60px 0px 0 570px;
+            }
+
+            #happyStoryTextBottom{
+                color: red;
+            }
+            
+           .section06{
+               height:990px;
+               margin:-27px 0 0 0;
+            }
+            
+            /*            <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+            /* Camera Pictogram */
+
+            .innerSec06{
+                border: 3px solid transparent;
+                background: url('../images/instagram.png') no-repeat center top;   
+                background-position: -3em 1.5em;
+                
+            }
+
+            .innerSec06 .boxText{
+                font-family: 'Gothic A1';
+                margin: -30px 0 0 55px;
+            }
+
+            #instaLogo{
+                box-sizing: border-box;
+                margin : 0px 0 0px 519px;
+                width:80px;        
+                height:48px;
+                width:48px;
+                background:url('../images/instagramLogo.png') no-repeat ;
+                text-Indent:-9999px;                
+                display: inline-block;
+            }
+          
+            #one{
+    
+                border: 1px solid red; 
+    
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;           
+                background: url('../images/insta1.png') no-repeat center ;
+            }
+
+            #two{
+ 
+                border: 1px solid red; 
+    
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+
+            }
+
+            #three{
+
+ 
+                border: 1px solid red; 
+    
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+
+            }
+
+            #four{
+ 
+                border: 1px solid red; 
+    
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+            }
+                    
+
+            #five{
+                 
+                border: 1px solid red; 
+    
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+            }
+
+
+
+            #six{
+                border: 1px solid red; 
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+            }
+
+
+            #seven{     
+                border: 1px solid red;     
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+            }
+
+            #eight{
+                border: 1px solid red; 
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+            }
+
+            #topBox{
+                text-align: center;
+                height: 250px;
+                width: 700px;
+                width:1080px;
+                margin: 20px 0  0  0; 
+                display:inline-block;
+            }
+
+            
+            #bottomBox{
+                text-align: center;
+                height: 250px;
+                width:1080px;
+                display:inline-block;   
+            }          
+            
+            .topInner{
+                display: inline-block;
+                margin: 20px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+            }
+
+            .bottomInner{
+                display: inline-block;
+                margin: 10px 10px 10px 15px;
+                width:230px;
+                height: 230px;
+            }
+
+            .section07{
+                margin: -13px 0 0 0;
+                height: 100px;
+                background-color: #dd8383;
+            }
+            
+            .section08{
+                display: inline-block;
+                height:100px;
+                
+            }
+            
+            #smallFranchise{
+                height:100px;
+                width: 539px;
+                float: left;
+                background-color: #eba4a4;
+            }
+            
+            #Franchise{
+                height:100px;
+                width: 539px;
+                float:left; 
+            }
+           
+            #domesticFranchise{
+                padding: 10px 0 0 0;
+                box-sizing: border-box;
+                float: left;
+                height:100px;
+                width:269px;
+                background-color: indianred;
+                text-align: center;
+                font-size:15px;
+            }
+            
+            #internationalFranchise{
+                padding: 10px 0 0 0;
+                box-sizing: border-box;
+                float: left;
+                height:100px;
+                width:269px;
+                background-color: indianred;
+                text-align: center;
+                font-family: 'Gothic A1', sans-serif;
+                font-size:15px;
+            }
+
+            .fClass{
+              font-size: 23px;      
+            }
+            
+            #footer{
+                background-color: lightgray;
+            }
+            
+            #siteInfo{
+                margin: 20px 0 0 0;
+                text-align: center;
+            }
+ 
+            
+            #footerTop{
+                 font-family: 'Gothic A1', sans-serif;
+                border: 1px solid transparent;
+                height:50px;
+                margin: 0px 50px;
+                box-sizing: border-box;
+            }
+            
+            #footerBottom{
+       
+                 font-family: 'Gothic A1', sans-serif;
+                box-sizing: border-box;
+                width: 1080px;
+                height:100px;
+                display: inline-block;
+            }
+            
+            #footerAddress{
+                 font-family: 'Gothic A1', sans-serif;
+                box-sizing: border-box;
+                float:left;    
+                width:900px;
+                padding: 0 0 0 20px;
+            }
+            
+            #footerLogo{
+                background: url('../images/이삭로고.png') no-repeat center;
+                box-sizing: border-box;
+                float: left;
+                padding: 80px 0 0 0;
+                width: 170px;
+                height: 100%;
+            }
+            
+        </style>
