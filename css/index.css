@@ -1,13 +1,6 @@
-
-
-
-
-
             a{
                 text-decoration: none;
             }
-
-
 
             #wrap{
                 display:block;
@@ -35,8 +28,7 @@
                 margin:25px;
                 height:45px;
                 width:225px;
-                background:url(../images/토스트로고.png) no-repeat ;
-                
+                background: url(../images/토스트로고.png) no-repeat ;
                 text-Indent:-999px;
             }    
             
