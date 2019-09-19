@@ -374,85 +374,88 @@
             }
           
             #one{
-    
-                border: 1px solid red; 
-    
+                border: 1px solid transparent; 
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;           
-                background: url('../images/insta1.png') no-repeat center ;
+                /* background: url('../images/insta1.png') no-repeat center ; */
+                background: url('../images/Instagram photos/bread-carbohydrates-close-up-1239347.jpg') no-repeat center ;
+                background-size: 350px;
             }
 
             #two{
- 
-                border: 1px solid red; 
-    
+                border: 1px solid transparent;    
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
-                height: 230px;
-
+                height: 230px;                
+                background: url('../images/Instagram photos/blur-bread-delicious-1832689.jpg') no-repeat center ;
+                background-size: 280px;
             }
 
-            #three{
 
- 
-                border: 1px solid red; 
-    
+
+            #three{
+                border: 1px solid transparent; 
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;
+                background: url('../images/Instagram photos/black-background-boiled-egg-boiled-eggs-824635.jpg') no-repeat center ;
+                background-size: 350px;
 
             }
 
             #four{
- 
-                border: 1px solid red; 
-    
+                border: 1px solid transparent;     
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;
+                background: url('../images/Instagram photos/adult-beef-bite-1059040.jpg') no-repeat center ;                
+                background-size: 350px;                
             }
                     
-
             #five{
-                 
-                border: 1px solid red; 
-    
+                border: 1px solid transparent;     
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;
+                background: url('../images/Instagram photos/avocado-bread-close-up-1351238.jpg') no-repeat center ;                
+                background-size: 350px;
             }
-
-
 
             #six{
-                border: 1px solid red; 
+                border: 1px solid transparent; 
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;
+                background: url('../images/Instagram photos/adult-black-and-white-coffee-889089.jpg') no-repeat center ;                
+                background-size: 350px;
             }
 
-
             #seven{     
-                border: 1px solid red;     
+                border: 1px solid transparent; 
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;
+                background: url('../images/Instagram photos/bread-close-up-coffee-1642759.jpg') no-repeat center ;                
+                
+                background-size: 350px;
             }
 
             #eight{
-                border: 1px solid red; 
+                border: 1px solid transparent; 
                 display: inline-block;
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;
+                background: url('../images/Instagram photos//baking-cheese-close-up-2161638.jpg') no-repeat center ;                
+                background-size: 350px;
             }
 
             #topBox{
