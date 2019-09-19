@@ -36,6 +36,7 @@
                 height:45px;
                 width:225px;
                 background:url(../images/토스트로고.png) no-repeat ;
+                
                 text-Indent:-999px;
             }    
             
@@ -121,8 +122,10 @@
             
             .section01{
                 border: 1px solid transparent;
-                background: 
-                    url('../images/front.png') no-repeat center top; 
+                /* background: 
+                    url('../images/front.png') no-repeat center top;  */
+                background:url(../images/pixzolo-photography-BiWb1Y8wpZk-unsplash.jpg) no-repeat ;
+                background-size: 1090px;
                 box-sizing:border-box;
                 height:590px;
                 border-top: 1px solid #af2323;
