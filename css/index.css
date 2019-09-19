@@ -28,7 +28,8 @@
                 margin:25px;
                 height:45px;
                 width:225px;
-                background: url(../images/토스트로고.png) no-repeat ;
+                /* background: url(../images/logo/sandwich.png) no-repeat ; */
+                background-size: 40px;
                 text-Indent:-999px;
             }    
             
@@ -75,14 +76,14 @@
  
                 width:35px;
                 height:35px;
-                background: url('../images/upperBlog.png') no-repeat center;
+                /* background: url('../images/upperBlog.png') no-repeat center; */
                 text-indent: -9999px;
             }
 
              #facebook{
                 width:35px;
                 height:35px;
-                background: url('../images/upperFacebook.png') no-repeat center;
+                /* background: url('../images/upperFacebook.png') no-repeat center; */
                 text-indent: -9999px;
             }
 
@@ -90,7 +91,7 @@
              #instagram{
                 width:35px;
                 height:35px;
-                background: url('../images/upperInstagram.png') no-repeat center;
+                /* background: url('../images/upperInstagram.png') no-repeat center; */
                 text-Indent: -9999px;
             }
 
@@ -360,7 +361,7 @@
                 width:80px;        
                 height:48px;
                 width:48px;
-                background:url('../images/instagramLogo.png') no-repeat ;
+                /* background:url('../images/instagramLogo.png') no-repeat ; */
                 text-Indent:-9999px;                
                 display: inline-block;
             }
@@ -371,7 +372,6 @@
                 margin: 20px 10px 10px 15px;
                 width:230px;
                 height: 230px;           
-                /* background: url('../images/insta1.png') no-repeat center ; */
                 background: url('../images/Instagram photos/bread-carbohydrates-close-up-1239347.jpg') no-repeat center ;
                 background-size: 350px;
             }
@@ -569,7 +569,7 @@
             }
             
             #footerLogo{
-                background: url('../images/이삭로고.png') no-repeat center;
+                /* background: url('../images/이삭로고.png') no-repeat center; */
                 box-sizing: border-box;
                 float: left;
                 padding: 80px 0 0 0;
